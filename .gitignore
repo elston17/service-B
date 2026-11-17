@@ -1,0 +1,9 @@
+# Real customer bookings — names, phone numbers, addresses.
+# Never commit this to a public repo.
+bookings.json
+
+# Your bot token lives here if you use a .env file
+.env
+
+node_modules/
+.DS_Store
